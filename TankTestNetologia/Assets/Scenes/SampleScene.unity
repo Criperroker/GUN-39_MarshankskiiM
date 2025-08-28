@@ -1260,7 +1260,7 @@ Transform:
   m_GameObject: {fileID: 709914106}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -127.54, y: 6.875, z: 103.888}
+  m_LocalPosition: {x: -130.62, y: 1.32, z: 94.92}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1786,7 +1786,7 @@ Transform:
   m_GameObject: {fileID: 1322955375}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -130.61, y: 6.875, z: 103.888}
+  m_LocalPosition: {x: -130.61, y: 0.83, z: 94.92}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2508,7 +2508,7 @@ Transform:
   m_GameObject: {fileID: 2064167565}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -133.54, y: 6.875, z: 103.888}
+  m_LocalPosition: {x: -131.118, y: 0.8299999, z: 93.938}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2638,7 +2638,7 @@ Transform:
   m_GameObject: {fileID: 1293169253662508988}
   serializedVersion: 2
   m_LocalRotation: {x: 3.621977e-15, y: 1, z: -0.000000021855694, w: 0.00000016292068}
-  m_LocalPosition: {x: -131.50706, y: 1.1, z: 100}
+  m_LocalPosition: {x: -130.681, y: 1.1, z: 110.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3226,7 +3226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b3e21422e254466810369536a65b19b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _accelerationPower: 0.248
+  _accelerationPower: 1
   _fireDelaySec: 1
 --- !u!82 &8921102108091362348
 AudioSource:
